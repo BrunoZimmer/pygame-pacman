@@ -1,11 +1,10 @@
 # :video_game: Pacman em python 
+Pacman game with the map pieces in .png files, the application is developed in python with the pygame's library.
 
-Jogo Pacman com mapa criado em png e aplicação desenvolvida em python a partir da biblioteca de pygame.
-
-Aplicação incompleta funções necessárias:
-Velocidade de atualização do jogo
-Movimneto de fantasmas
-Atualização da imagem dos fantasma
+Aplication incomplete, necessary functions:
+Game updating characters speed
+Ghost's moviment
+Ghost updating skin
 
 ## 👤 Author
 :man: Bruno Zimmer
